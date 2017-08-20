@@ -1,1 +1,1 @@
-worker: python SpooksterBot.py
+worker: python csgo.py
